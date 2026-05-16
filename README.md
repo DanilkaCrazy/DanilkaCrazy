@@ -28,7 +28,6 @@
 - ✍️ Author of a technical blog on **Habr** with 20k+ monthly readers.
 - 🌍 Based in **Bishkek, Kyrgyzstan** / **Yekaterinburg, Russia**.
 
----
 
 ---
 
