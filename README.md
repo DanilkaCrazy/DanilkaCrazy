@@ -30,20 +30,6 @@
 
 ---
 
-### 💼 Experience
-
-| **Role** | **Company** | **Period** |
-|----------|-------------|------------|
-| **System Analyst / Programmer** (Data Analysis) | Trading House UET, Yekaterinburg | Jun 2023 – Aug 2025 |
-| **Data Scientist** | Motiv (Telecom Group), Yekaterinburg | Jun 2022 – Jun 2024 |
-| **DevOps Intern** | Rostelecom, Yekaterinburg | Sep 2022 – Nov 2023 |
-
-**Key achievements:**
-- Built ETL pipelines (PostgreSQL, Python) and Power BI dashboards, saving teams up to 30% of reporting time.
-- Developed churn prediction models (Scikit-learn) that influenced proactive retention campaigns.
-- Automated operational reporting, cutting manual effort by 20% and improving decision-making speed.
-- Collaborated with cross‑functional teams to formalize requirements and design system integrations.
-
 ---
 
 ### 🎓 Education
@@ -77,7 +63,7 @@
 `Docker` `Linux` `CI/CD` `Hadoop` `Cloud Basics`
 
 #### **Languages**
-`Russian` (native) · `English` (B2 Upper-Intermediate) · `Kyrgyz` (A1) · `French` (A2)
+`Russian` (native) · `English` (B2 Upper-Intermediate) · `French` (A2)
 
 ---
 
