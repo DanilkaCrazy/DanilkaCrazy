@@ -15,56 +15,6 @@
   <a href="https://www.kaggle.com/felkan228"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
 </p>
 
----
-
-### 👋 Hi, I'm Danil
-
-**Researcher, Data Analyst, and Systems Thinker** — bridging applied machine learning, bioinformatics, and engineering pragmatism.
-
-- 🔭 I’m currently pursuing a **Master's in AI** at **ITMO University** (2025–2027).
-- 🎓 Graduated with honors from **Ural Federal University** (Top 100 students, Presidential Scholarship).
-- 💼 Previously **Systems Analyst** at Trading House UET, **Data Scientist** at Motiv (telecom), and **DevOps intern** at Rostelecom.
-- 🧬 Bioinformatician at heart — developed ML models for prostate cancer biomarker discovery.
-- ✍️ Author of a technical blog on **Habr** with 20k+ monthly readers.
-- 🌍 Based in **Bishkek, Kyrgyzstan** / **Yekaterinburg, Russia**.
-
-
----
-
-### 🎓 Education
-
-| **Degree** | **Field** | **Institution** | **Year** |
-|------------|-----------|-----------------|----------|
-| **Master's** | Artificial Intelligence | ITMO University (St. Petersburg) | 2025 – 2027 |
-| **Bachelor's** (Honors) | Computer Science & Engineering | Ural Federal University (Yekaterinburg) | 2021 – 2025 |
-
-- 🏅 **Top 100 graduates** of UrFU, **Presidential Scholarship** recipient.
-- 🧪 **Research**: Bioinformatics at UrFU — machine learning for prostate cancer biomarker discovery.
-- 🛠 **Projects**: CRM for manufacturing, HR system for Brusnika, online bookshop (system analyst & PM roles).
-
----
-
-### 🛠️ Skills
-
-#### **Data & Analytics**
-`SQL (PostgreSQL)` `Python (Pandas, NumPy, SciPy)` `R` `Jupyter` `ETL` `Data Mining`
-
-#### **BI & Visualization**
-`Power BI` `Matplotlib` `Seaborn` `Tableau` (basic)
-
-#### **Machine Learning**
-`Scikit-learn` `Classification` `Regression` `Hypothesis Testing` `A/B Testing` `Math Stats`
-
-#### **System Analysis**
-`Requirements Analysis` `UML/BPMN` `Stakeholder Management` `Specifications`
-
-#### **DevOps & Infrastructure**
-`Docker` `Linux` `CI/CD` `Hadoop` `Cloud Basics`
-
-#### **Languages**
-`Russian` (native) · `English` (B2 Upper-Intermediate) · `French` (A2)
-
----
 
 ### 📊 GitHub Stats
 
